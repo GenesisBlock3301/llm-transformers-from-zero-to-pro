@@ -11,6 +11,7 @@
 
 #### **Project 1.1: Basic ML API Service** ⭐ **START HERE**
 **What you'll build**: Simple ML model API with proper error handling
+
 **Skills gained**: FastAPI, Docker, basic monitoring
 ```python
 # Week 1 Focus
